@@ -10,6 +10,7 @@
 - [API Endpoints](#api-endpoints)
 - [Testing with Postman](#testing-with-postman)
 - [Contributing](#contributing)
+-  [License](#license)
 
 ## Introduction
 
@@ -118,4 +119,5 @@ Contributions to this project are welcome. Please follow these steps to contribu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-This README provides instructions for setting up the PostgreSQL database and the associated table, as well as integrating it with your PERN stack todo application. Make sure to adjust it according to your project's structure and requirements.
+This README provides instructions for setting up the PostgreSQL database and the associated table, as well as integrating it with your PERN stack todo application.
+ Make sure to adjust it according to your project's structure and requirements.
